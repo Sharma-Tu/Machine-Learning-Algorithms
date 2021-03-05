@@ -1,2 +1,4 @@
-# Machine-Learning-CS-6140
-Machine Learning algorithms
+# Machine-Learning
+
+Basic regression and classification algorithms implemented using gradient descent and expectation maximization.
+
