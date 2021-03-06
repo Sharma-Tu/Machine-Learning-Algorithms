@@ -12,7 +12,7 @@ Here we have a micture of two gaussian distributions simulated with preset param
 
 ## Linear Classification - Logistic (sigmoid) vs Hyperbolic tangent 
 
-A comparison for sigmoid function and hyperbolic tangent function used in linear binary classification. The figure shows optimized separation plane between the two classes.
+A comparison for sigmoid function and hyperbolic tangent function used in linear binary classification. The figure shows optimal separation plane between the two classes.
 
 
 ![](LogisticRegressionVsGivenfunction.png)
