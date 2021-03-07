@@ -4,7 +4,7 @@ Basic regression and classification algorithms implemented using gradient descen
 
 ### Expectation Maximization for mixture of gaussians
 
-Here we have a micture of two gaussian distributions simulated with preset parameters as mu = [30.0,6.0] and sigma = [1.0,1.5]. The figure below shows the estimated distributions using EM algorithm after optimization.
+Here we have a mixture of two gaussian distributions simulated with preset parameters as mu = [30.0,6.0] and sigma = [1.0,1.5]. The figure below shows the estimated distributions using EM algorithm after optimization.
 
 ![](EM_Gaussian.png)
 
