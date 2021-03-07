@@ -1,6 +1,6 @@
 # Machine Learning Algorithms
 
-Basic regression and classification algorithms implemented using gradient descent and expectation maximization.
+Basic regression and classification algorithms implemented using gradient descent and expectation maximization. Below are two examples:
 
 ## Expectation Maximization for mixture of gaussians
 
